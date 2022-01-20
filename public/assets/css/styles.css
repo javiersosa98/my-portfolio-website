@@ -514,6 +514,10 @@ img {
     width: 60%;
 }
 
+.skills__reactnative {
+    width: 50%;
+}
+
 .skills__java {
     width: 80%;
 }
